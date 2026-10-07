@@ -1,0 +1,7 @@
+av
+numpy
+pillow
+imageio-ffmpeg
+vosk
+faster-whisper
+soundfile
